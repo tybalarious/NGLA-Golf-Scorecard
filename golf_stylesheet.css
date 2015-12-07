@@ -1,0 +1,66 @@
+html, body {
+    background-image: url("images/National-Golf-Links-8-1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    font-family: 'Expletus Sans', cursive;
+    font-size: 75px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.53);
+    color: #ffffff;
+    margin-bottom: 50px;
+}
+
+#map {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+}
+
+.table {
+    background-color: #fff;
+    font-family: 'Expletus Sans', cursive;
+    color: #000000;
+    margin: 0 auto;
+}
+.champyrds {
+    background-color: black;
+    color: white;
+}
+
+.regyrds {
+    background-color: blue;
+    color: white;
+}
+
+.par {
+    background-color: rgba(0, 0, 0, 0.38);
+}
+
+.warning {
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.holesmap {
+    margin-bottom: 50px;
+}
+
+.btn {
+    font-size: 15px;
+}
+
+.golfinput {
+    width: 30px;
+    text-align: center;
+}
+
+.scorecard {
+    width: 1250px;
+    margin-bottom: 50px;
+}
